@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @God1641
+- 👋 Hi, I’m Krishnesh Verma
 - 👀 I’m interested in learning dsa
 - 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate on nothing as of now 
